@@ -1,0 +1,23 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="url(#paint0_linear)"/>
+  <circle cx="100" cy="100" r="300" fill="white" fill-opacity="0.05"/>
+  <circle cx="1100" cy="530" r="300" fill="white" fill-opacity="0.05"/>
+  
+  <!-- Logo/Icon Area -->
+  <g transform="translate(450, 200)">
+    <rect x="60" y="40" width="180" height="140" rx="20" stroke="white" stroke-width="12" fill="none"/>
+    <path d="M260 80 L300 50 V170 L260 140" stroke="white" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="150" cy="110" r="30" fill="white"/>
+  </g>
+
+  <!-- Text -->
+  <text x="600" y="450" font-family="Arial, sans-serif" font-weight="bold" font-size="80" fill="white" text-anchor="middle" letter-spacing="2">SoulConnect</text>
+  <text x="600" y="520" font-family="Arial, sans-serif" font-size="32" fill="white" fill-opacity="0.9" text-anchor="middle">Seamless Video Calling & Chat</text>
+
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5"/>
+      <stop offset="1" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+</svg>
